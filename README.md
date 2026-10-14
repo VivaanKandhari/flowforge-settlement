@@ -1,11 +1,6 @@
 # FlowForge: settlement under stress
 
-An exploratory payment-network simulator and graph-policy benchmark prepared for Arbiter Hacks V1, General Track. Registration is confirmed; the event submission period starts 21 October 2026 at 00:00 HKT. This project has not been submitted.
-
-Demo: https://youtu.be/2huw6TIjpTM . The 2.5-minute walkthrough uses actual prototype screenshots with synthesized narration.
-
-Open `index.html` directly in a browser to inspect the precomputed, actual experiment. The dashboard replays recorded simulation traces; it does not run a bank connection or new training in the browser.
-
+An exploratory payment-network simulator and graph-policy benchmark prepared for Arbiter Hacks V1, General Track. 
 ## Reproduce
 
 Python 3.10+ and NumPy are required. Install `requirements.txt`, then run:
