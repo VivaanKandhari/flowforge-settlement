@@ -2,6 +2,8 @@
 
 An exploratory payment-network simulator and graph-policy benchmark prepared for Arbiter Hacks V1, General Track. Registration is confirmed; the event submission period starts 21 October 2026 at 00:00 HKT. This project has not been submitted.
 
+Demo: https://youtu.be/2huw6TIjpTM . The 2.5-minute walkthrough uses actual prototype screenshots with synthesized narration.
+
 Open `index.html` directly in a browser to inspect the precomputed, actual experiment. The dashboard replays recorded simulation traces; it does not run a bank connection or new training in the browser.
 
 ## Reproduce
@@ -35,4 +37,6 @@ Related work: Bank of Canada, Estimating Policy Functions in Payments Systems Us
 
 AI disclosure: Codex generated the implementation, trained experiment and materials. The entrant must review and understand it before presenting it as their project. No empirical result is invented.
 
-Remaining submission assets: a public source repository and a 2–3-minute working demo video, then entry creation when Devpost opens. Arbiter rules currently do not specify a restriction on pre-event development; creation dates should be disclosed and rules rechecked at entry time.
+Current finding: graph-minus-edge-only paired completion differences have approximate 95% intervals containing zero in all six scenarios. A graph-layer advantage is not established. Under outages, graph-stress averages 80.02 completions, edge-only 79.92, FIFO 79.06, lookahead 81.52 and cycle netting 84.25. Cycle netting has a different settlement capability. These are synthetic results only.
+
+Source and demo assets are prepared. Remaining: entrant review and Devpost entry creation when submissions open. Arbiter rules currently do not specify a restriction on pre-event development; creation dates should be disclosed and rules rechecked at entry time. A draft is in SUBMISSION.md.
