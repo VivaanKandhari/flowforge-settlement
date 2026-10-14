@@ -30,7 +30,6 @@ The proposed contribution is a reproducible stress/ablation comparison, not a pr
 
 Related work: Bank of Canada, Estimating Policy Functions in Payments Systems Using Reinforcement Learning (2021), https://www.bankofcanada.ca/2021/02/staff-working-paper-2021-7/ ; ECB/Bank of Japan Stella report (2017), https://www.ecb.europa.eu/pub/pdf/other/ecb.stella_project_report_september_2017.pdf . A deeper prior-art review is required before claiming research novelty.
 
-AI disclosure: Codex generated the implementation, trained experiment and materials. The entrant must review and understand it before presenting it as their project. No empirical result is invented.
 
 Current finding: graph-minus-edge-only paired completion differences have approximate 95% intervals containing zero in all six scenarios. A graph-layer advantage is not established. Under outages, graph-stress averages 80.02 completions, edge-only 79.92, FIFO 79.06, lookahead 81.52 and cycle netting 84.25. Cycle netting has a different settlement capability. These are synthetic results only.
 
