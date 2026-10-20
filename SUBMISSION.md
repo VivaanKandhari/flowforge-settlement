@@ -32,7 +32,7 @@ A reproducible comparison of graph messages, stress training and settlement mech
 Investigate learned ranking of feasible netting batches, capacity-constrained settlement, multiple outage patterns, and sensitivity to simulator distributions. Validate hypotheses on an independent development split before evaluating on a new untouched test split.
 
 ## AI assistance and limitations
-Codex generated the implementation, ran training/evaluation and created materials. The video uses real prototype screenshots and synthesized narration. The entrant must review and understand the work. All data is synthetic. There are no real bank connections, clinical or financial claims, deployment claims, participant-research claims or guaranteed performance gains.
+AI tools generated the implementation, ran training/evaluation and created materials. The video uses real prototype screenshots and synthesized narration. The entrant must review and understand the work. All data is synthetic. There are no real bank connections, clinical or financial claims, deployment claims, participant-research claims or guaranteed performance gains.
 
 ## Prior art
 Bank of Canada (2021), Estimating Policy Functions in Payments Systems Using Reinforcement Learning: https://www.bankofcanada.ca/2021/02/staff-working-paper-2021-7/
