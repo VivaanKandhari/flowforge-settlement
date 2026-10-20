@@ -1,6 +1,6 @@
 # FlowForge: settlement under stress
 
-An exploratory payment-network simulator and graph-policy benchmark prepared for Arbiter Hacks V1, General Track. 
+An exploratory payment-network simulator and graph-policy benchmark.
 ## Reproduce
 
 Python 3.10+ and NumPy are required. Install `requirements.txt`, then run:
