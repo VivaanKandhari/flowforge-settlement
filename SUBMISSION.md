@@ -5,7 +5,7 @@ Target: Arbiter Hacks V1, General Track. Solo entrant: Vivaan Kandhari.
 Status: registered, source published, demo uploaded. Not submitted: Devpost opens entries on 21 October 2026 at 00:00 HKT (20 October 09:00 PDT). Prepared on 14 October; disclose pre-event development and recheck rules before entry.
 
 Repository: https://github.com/VivaanKandhari/flowforge-settlement
-Demo: https://youtu.be/2huw6TIjpTM
+Demo: https://youtu.be/1fg3Rq3iSpM
 
 ## Elevator pitch
 An auditable payment-network simulator testing learned graph scheduling, liquidity-saving cycles and simple policies under outages and unseen topologies.
