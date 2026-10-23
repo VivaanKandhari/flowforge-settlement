@@ -2,7 +2,7 @@
 
 Target: Arbiter Hacks V1, General Track. Solo entrant: Vivaan Kandhari.
 
-Status: registered, source published, demo uploaded. Not submitted: Devpost opens entries on 21 October 2026 at 00:00 HKT (20 October 09:00 PDT). Prepared on 14 October; disclose pre-event development and recheck rules before entry.
+Status: registered, source and demo published; not yet submitted. The submission window opened on 21 October 2026 at 00:00 HKT. This prototype was prepared on 14 October, before that opening; pre-event development is disclosed and no claim of development within the event window is made.
 
 Repository: https://github.com/VivaanKandhari/flowforge-settlement
 Demo: https://youtu.be/1fg3Rq3iSpM
